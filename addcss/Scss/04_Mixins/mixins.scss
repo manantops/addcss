@@ -1,0 +1,17 @@
+@mixin main() {
+    background-color: red;
+    color: white;
+    padding: 50px;
+    border: solid 2px black;
+    margin-top: 20px;
+} 
+
+
+#one {
+    @include main()
+}
+
+
+#two {
+    @include main()
+}

@@ -1,0 +1,13 @@
+.h2, .h1 {
+  border: 3px solid black;
+  padding: 20px;
+  color: white;
+}
+
+.h1 {
+  background-color: green;
+}
+
+.h2 {
+  background-color: aqua;
+}/*# sourceMappingURL=inheritance.css.map */

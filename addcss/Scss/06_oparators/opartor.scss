@@ -1,0 +1,22 @@
+$var1 : 10;
+$var2 : 200;
+$var3 : 50;
+.abc{
+
+    background-color: lightcoral;
+}
+
+// string concetation
+.main{
+    padding: $var1 + px;
+    height: $var3 + px;
+    background-color: red;
+}
+
+
+.main1 {
+    width: $var2 + px;
+    background-color: aqua;
+}
+
+// numeric 

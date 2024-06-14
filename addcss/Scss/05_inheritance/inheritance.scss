@@ -1,0 +1,14 @@
+%border-message{
+    border: 3px solid black;
+    padding: 20px;
+    color:  white;
+}
+.h1{
+    @extend %border-message;
+    background-color: green;
+}
+
+.h2{
+    @extend %border-message;
+    background-color: aqua;
+}

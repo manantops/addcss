@@ -1,0 +1,9 @@
+$font-style:sans-serif;
+$color: white;
+$bg-color: red;
+
+body{
+    font: $font-style;
+    color: $color;
+    background-color: $bg-color;
+}
